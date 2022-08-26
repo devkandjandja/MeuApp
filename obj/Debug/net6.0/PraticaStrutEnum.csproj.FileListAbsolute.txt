@@ -1,0 +1,15 @@
+C:\dev\PraticaStrutEnum\obj\Debug\net6.0\PraticaStrutEnum.csproj.AssemblyReference.cache
+C:\dev\PraticaStrutEnum\obj\Debug\net6.0\PraticaStrutEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\PraticaStrutEnum\obj\Debug\net6.0\PraticaStrutEnum.AssemblyInfoInputs.cache
+C:\dev\PraticaStrutEnum\obj\Debug\net6.0\PraticaStrutEnum.AssemblyInfo.cs
+C:\dev\PraticaStrutEnum\obj\Debug\net6.0\PraticaStrutEnum.csproj.CoreCompileInputs.cache
+C:\dev\PraticaStrutEnum\bin\Debug\net6.0\PraticaStrutEnum.exe
+C:\dev\PraticaStrutEnum\bin\Debug\net6.0\PraticaStrutEnum.deps.json
+C:\dev\PraticaStrutEnum\bin\Debug\net6.0\PraticaStrutEnum.runtimeconfig.json
+C:\dev\PraticaStrutEnum\bin\Debug\net6.0\PraticaStrutEnum.dll
+C:\dev\PraticaStrutEnum\bin\Debug\net6.0\PraticaStrutEnum.pdb
+C:\dev\PraticaStrutEnum\obj\Debug\net6.0\PraticaStrutEnum.dll
+C:\dev\PraticaStrutEnum\obj\Debug\net6.0\refint\PraticaStrutEnum.dll
+C:\dev\PraticaStrutEnum\obj\Debug\net6.0\PraticaStrutEnum.pdb
+C:\dev\PraticaStrutEnum\obj\Debug\net6.0\PraticaStrutEnum.genruntimeconfig.cache
+C:\dev\PraticaStrutEnum\obj\Debug\net6.0\ref\PraticaStrutEnum.dll
